@@ -1,0 +1,8 @@
+.cabecalho__container {
+    display: flex;
+    justify-content: space-between;
+} 
+
+.pesquisar__label{
+    width: 50%;
+}
